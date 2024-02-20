@@ -7,7 +7,7 @@ import org.testng.Assert;
 
 import static io.qameta.allure.Allure.step;
 
-public class Initial_Step extends Reused_Variables
+public class Initial_StepTest extends Reused_VariablesTest
 {
     @Then("Main page is displayed")
     public void isDisplayed()

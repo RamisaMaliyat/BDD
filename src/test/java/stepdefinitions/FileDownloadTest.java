@@ -9,7 +9,7 @@ import utils.FileUtil;
 
 import static io.qameta.allure.Allure.step;
 
-public class FileDownload extends Reused_Variables
+public class FileDownloadTest extends Reused_VariablesTest
 {
 
    @When("Select {string} link from Tool menu on the Article page")

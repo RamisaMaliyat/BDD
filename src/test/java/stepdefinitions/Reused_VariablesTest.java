@@ -8,7 +8,7 @@ import utils.SettingsTestData;
 
 import java.io.File;
 
-public class Reused_Variables
+public class Reused_VariablesTest
 {
     String name = "Albert Einstein";
     String expectedFileName = "Albert_Einstein.pdf";

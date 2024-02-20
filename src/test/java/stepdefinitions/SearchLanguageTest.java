@@ -8,7 +8,7 @@ import org.testng.Assert;
 import static io.qameta.allure.Allure.step;
 
 
-public class SearchLanguage extends Reused_Variables
+public class SearchLanguageTest extends Reused_VariablesTest
 {
     @When("Input \"Albert Einstein\" in the search field")
     public void Enter_Name()

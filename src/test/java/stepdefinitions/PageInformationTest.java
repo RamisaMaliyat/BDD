@@ -8,7 +8,7 @@ import pages.Navigation_Page;
 import static io.qameta.allure.Allure.step;
 
 
-public class PageInformation extends Reused_Variables
+public class PageInformationTest extends Reused_VariablesTest
 {
     @When("Select {string} button from Tool menu on the Article page")
     public void NavigatePageInformation(String navigation)
