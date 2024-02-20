@@ -1,0 +1,1 @@
+[{"buildOrder":2,"reportUrl":"http://localhost:8080/job/CI-CD/2/allure","reportName":"AllureReport","data":{"duration":30207169}},{"buildOrder":1,"reportUrl":"http://localhost:8080/job/CI-CD/1/allure","reportName":"AllureReport","data":{"duration":30207169}}]
